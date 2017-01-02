@@ -9,10 +9,13 @@
 4. Решаем соревнования с kaggle.
 5. Символьные вычисления в theano
 
-# Acknowledgment
+# Acknowledgments
 
 -  [Justheuristic](https://github.com/justheuristic/) за тетрадки и менторство по ходу проведения курса
 -  [Quest753](https://github.com/Quest753) и [DTyrsa](https://github.com/DTyrsa) за помощь с семинарами
 -  Всем студентам за вдумчивое обучение и обратную связь!
 
+# Futher reading
+- [HSE deeplearning](https://github.com/yandexdataschool/HSE_deeplearning) - курс по глубокому обучению в магистратуре НИУ ВШЭ
+- [dl-course](https://github.com/ddtm/dl-course) - курс по глубокому обучению в ШАД
 
